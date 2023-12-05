@@ -1,15 +1,14 @@
 {
-  "name": "markdown-toc",
+  "name": "markdown-toc-redux",
   "description": "Generate a markdown TOC (table of contents) with Remarkable.",
-  "repository": "jonschlinkert/markdown-toc",
+  "repository": "gregdan3/markdown-toc-redux",
   "license": "MIT",
-  "homepage": "https://github.com/jonschlinkert/markdown-toc",
+  "homepage": "https://github.com/gregdan3/markdown-toc-redux",
   "authors": [
-    "Jon Schlinkert (https://github.com/jonschlinkert)"
+    "Jon Schlinkert (https://github.com/jonschlinkert)",
+    "Gregory Danielson III (https://github.com/gregdan3)"
   ],
-  "main": [
-    "index.js"
-  ],
+  "main": ["index.js"],
   "dependencies": {
     "concat-stream": "^1.5.2",
     "diacritics-map": "^0.1.0",
@@ -53,34 +52,34 @@
     "toc",
     "write"
   ],
-  "version": "1.1.0",
+  "version": "1.3.0",
   "contributors": [
     "(https://github.com/lu22do)",
     "=^._.^= (http://maxogden.com)",
+    "Andrés (http://angrykoala.github.io)",
     "Benjamin Schmitz (https://github.com/Vortex375)",
     "Christian Raunitschka (raunitschka.de)",
     "Daniel Chen (http://chendaniely.github.io)",
-    "David Mohl <github@dvcrn.io> (https://dvcrn.github.io)",
+    "Daniel Mietchen (http://about.me/daniel.mietchen)",
+    "David Mohl (https://dvcrn.github.io)",
     "Federico Soave (https://github.com/Feder1co5oave)",
     "Gary Green (https://github.com/garygreen)",
-    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
+    "Gregory Danielson III <gregdan3@protonmail.com> (https://gregdan3.dev)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
     "Josh Duff (https://tehshrike.github.io)",
     "Matt Ellis (http://sticklebackplastic.com)",
-    "Nicolas Morel <nicolas@morel.io> (https://github.com/Marsup)",
+    "Nicolas Morel (https://github.com/Marsup)",
+    "Rafael Steil (http://rafaelsteil.com)",
     "Richard Bradley (https://github.com/RichardBradley)",
-    "Seth Vincent <sethvincent@gmail.com> (http://sethvincent.com)",
+    "Seth Vincent (https://sethvincent.com)",
     "Stefan Walther (http://qliksite.io)",
-    "Tao Wang <twang2218@gmail.com> (https://github.com/twang2218)",
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Tao Wang (https://github.com/twang2218)",
+    "Zeke Sikelianos (http://zeke.sikelianos.com)"
   ],
   "bugs": {
-    "url": "https://github.com/jonschlinkert/markdown-toc/issues"
+    "url": "https://github.com/gregdan3/markdown-toc-redux/issues"
   },
-  "files": [
-    "cli.js",
-    "index.js",
-    "lib"
-  ],
+  "files": ["cli.js", "index.js", "lib"],
   "bin": {
     "markdown-toc": "cli.js"
   },
