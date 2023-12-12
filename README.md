@@ -2,8 +2,6 @@
 
 > Generate a markdown TOC (table of contents) with Remarkable.
 
-Please consider following this project's maintainer, [gregdan3](https://github.com/gregdan3), and consider starring the project to show your :heart: and support.
-
 - [Highlights](#highlights)
 - [Usage](#usage)
 - [API](#api)
@@ -386,7 +384,7 @@ You might also be interested in these projects:
 
 ### License
 
-Copyright © 2023, [Jon Schlinkert](https://github.com/jonschlinkert).
+Copyright © 2013-2023, [Jon Schlinkert](https://github.com/jonschlinkert).
 Copyright © 2023-2024, [Gregory Danielson III](https://github.com/gregdan3).
 Released under the [MIT License](LICENSE).
 
